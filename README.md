@@ -10,6 +10,7 @@ Usage: Sodash Sodash is started with the standard input connected to the termina
 gcc -Wall -Werror -Wextra -pedantic *.c -o sodash ./sodash Sodash is allowed to be invoked interactively and non-interactively. If sodash is invoked with standard input not connected to a terminal, it reads and executes received commands in order.
 
 Authors & Copyrights
+
 Nahom Behailu
 
 Lillian Assefa
